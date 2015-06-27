@@ -1,0 +1,16 @@
+{
+  "name": "gulp-fix-compare",
+  "version": "0.0.1",
+  "description": "Fixing == and !=",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JuhQ/gulp-fix-compare"
+  },
+  "author": "Juha Tauriainen <juha@bin.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  }
+}
